@@ -1,3 +1,3 @@
 # ProjetoEscapeRoom
-Projeto realizado no segundo semestres do curso de ADS, com o intuito de praticar programação orientada a objeto
-O jogo pode ser jogada nesse link: https://replit.com/@viiy/Projeto-de-Escape-Room?v=1
+Um jogo de escape room contendo 3 salas nas quais é necessario descobri a senha de 3 digitos com as pistas emcontradas nas salas.
+Esse jogo nasceu como uma forma de praticar e entender sobre classes e heranças no C#.
